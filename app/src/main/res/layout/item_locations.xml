@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_location"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:drawablePadding="12dp"
+    android:textSize="20sp"
+    android:text="@string/lion_restoran"
+    android:fontFamily="@font/circular_std"
+    android:textColor="@color/black"
+    android:drawableStart="@drawable/ic_map"/>

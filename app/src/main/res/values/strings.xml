@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nukus Marshrutka</string>
+    <string name="lion_restoran">Lion Restoran</string>
+    <string name="nukus_marshrutka">Nukus Marshrutka</string>
+    <string name="orayliq_bazar_navto_vokzal">Orayliq Bazar\nAvto Vokzal...</string>
+    <string name="_57">57</string>
+    <string name="baslansh_manzil">Baslanǵısh ma\'nzil</string>
+    <string name="aqri_manzil">Aqırǵı mánzil</string>
+    <string name="manziller">Mánziller:</string>
+    <string name="jonelis_nomeri">Jo\'nelis nomeri:</string>
+    <string name="jonelis">Jo\'nelis</string>
+</resources>
